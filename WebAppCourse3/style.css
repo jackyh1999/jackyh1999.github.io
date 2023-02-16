@@ -1,5 +1,10 @@
-.box1 {
+#box-1 {
 	position: absolute;
 	left: 100px;
 	color: #6495ED;
+}
+
+.warning {
+	font-size: 48px;
+	color: red;
 }
