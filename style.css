@@ -1,5 +1,12 @@
-.box1 {
-	position: absolute;
-	left: 100px;
-	color: #6495ED;
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: white;
 }
